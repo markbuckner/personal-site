@@ -2,7 +2,7 @@
 layout: page
 tags: jekyll theme, jekyll, pudhina fresh theme
 full_logo: true
-title: Mark Buckner's home page index
+title: 
 subtitle: 
 sitemap:
   priority: 0.9
