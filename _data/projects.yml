@@ -18,14 +18,16 @@
   id: p2
   main_link: /personal-site
   img_src: 
-  description_less: >
+  description_less: > /assets/img/python-logo.png
     <p>Sample Python project.</p>
-  description_more: >
-    <p>The sample project also used C++.</p>
-
+    <br>
     <a href="/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
     <a href="https://github.com" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
     <a href="/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
+  description_more: >
+    <p>The sample project also used C++!</p>
+
+
 
   tags: >
     <span class="badge badge-info">#python</span>
