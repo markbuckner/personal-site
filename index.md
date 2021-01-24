@@ -8,8 +8,6 @@ sitemap:
   priority: 0.9
 ---
 <p id="describe-text">Under construction..</p>
-<br>
-A minimal yet feature-rich Jekyll theme made for personal websites and blogs. Checkout [Pudhina Fresh](https://github.com/ritijjain/pudhina-fresh).
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed do eiusmod tempor incididunt ut labore et magna aliqua. Incididunt ut labore et [dolore](#) aler tempor incididunt et [email@example.com](#).
 
