@@ -1,6 +1,6 @@
 # Site settings
 title: Mark Buckner's home page
-short_logo: P.
+short_logo: M. Buckner
 description: >
   A Jekyll website hosted on GitHub for use as my personal site to show code projects and blog posts.
 baseurl: "/personal-site" # the subpath of your site, e.g. /blog/
