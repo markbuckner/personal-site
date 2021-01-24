@@ -4,7 +4,7 @@ short_logo: M. Buckner
 description: >
   A Jekyll website hosted on GitHub for use as my personal site to show code projects and blog posts.
 baseurl: "/personal-site" # the subpath of your site, e.g. /blog/
-url: "https://mbuck11.github.io" # the base hostname & protocol for your site
+url: "https://markbuckner.github.io" # the base hostname & protocol for your site
 
 disqus_name: 
 g_track_id: 
