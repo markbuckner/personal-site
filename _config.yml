@@ -1,16 +1,10 @@
 # Site settings
-title: Pudhina Fresh
+title: Mark Buckner's home page
 short_logo: P.
 description: >
-  A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
-baseurl: "/pudhina-fresh" # the subpath of your site, e.g. /blog/
-url: "https://ritijjain.github.io" # the base hostname & protocol for your site
-
-author:
-  fullname: Ritij Jain
-  github: /ritijjain/pudhina-fresh
-  linkedin: /
-  email: /
+  A Jekyll website hosted on GitHub for use as my personal site to show code projects and blog posts.
+baseurl: "/personal-site" # the subpath of your site, e.g. /blog/
+url: "https://mbuck11.github.io" # the base hostname & protocol for your site
 
 disqus_name: 
 g_track_id: 
@@ -24,8 +18,8 @@ defaults:
     values:
       comments: true
       listed: true
-      author: Ritij Jain
-      author_link: <a href="https://ritijjain.com/">Ritij Jain<a>
+      author: Mark Buckner
+      author_link: <a href="https://github.com/mbuck11/">Mark Buckner<a>
   -
     scope:
       path: pages/redirects
