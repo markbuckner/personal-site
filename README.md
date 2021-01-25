@@ -1,5 +1,5 @@
-# Hello World :)
-Mark Buckner's personal website.
+# Mark Buckner's personal website
+### Hello World :)
 
 
 Theme Credits and License:
