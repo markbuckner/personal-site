@@ -6,6 +6,12 @@ description: >
 baseurl: "/personal-site" # the subpath of your site, e.g. /blog/
 url: "https://markbuckner.github.io" # the base hostname & protocol for your site
 
+author:
+  fullname: Mark Bucknre
+  github: /markbuckner
+  linkedin: /mark-buckner-io
+  email: marbuckner@protonmail.com
+
 disqus_name: 
 g_track_id: 
 
@@ -19,7 +25,7 @@ defaults:
       comments: true
       listed: true
       author: Mark Buckner
-      author_link: <a href="https://github.com/mbuck11/">Mark Buckner<a>
+      author_link: <a href="https://github.com/markbuckner/">Mark Buckner<a>
   -
     scope:
       path: pages/redirects
