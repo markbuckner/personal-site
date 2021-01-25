@@ -7,7 +7,8 @@ subtitle:
 sitemap:
   priority: 0.9
 ---
-<p id="describe-text">Under construction..</p>
+<p id="describe-text">Hello World</p>
+I am a software engineer currently working in the medical technology field. My favorite language is Python.
 <br>
 <br>
 Connect with me on [LinkedIn](https://www.linkedin.com/in/mark-buckner-io/){:target="_blank"}.
