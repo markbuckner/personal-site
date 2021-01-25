@@ -1,16 +1,14 @@
 - name: Simple, Painless Python Logger
   id: p1
   main_link: /
-  img_src: /assets/img/Logger.png
+  img_src: /assets/img/logger.png
   description_less: >
     <p>My Logger for Python. Enables users to get set up to log to file or console with just import statements.</p>
+    <a href="https://github.com/markbuckner/Logger" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+    <a href="/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
   description_more: >
     <p>The logger includes three levels for INFO, WARNING, and ERROR messages. </p>
     <p>The ERROR messages add traceback information and are meant to be used in except blocks.</p>
-
-    <a href="https://github.com/markbuckner/Logger" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-
   tags: >
     <span class="badge badge-info">#python</span>
     <span class="badge badge-secondary">#logger</span>
@@ -28,9 +26,6 @@
     <a href="/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
   description_more: >
     <p>This tool really speeds up developing multi-threaded Python code!</p>
-
-
-
   tags: >
     <span class="badge badge-info">#python</span>
     <span class="badge badge-secondary">#threading</span>
