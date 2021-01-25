@@ -11,6 +11,6 @@ sitemap:
 I am a software engineer currently working in the medical technology field. My favorite language is Python.
 <br>
 <br>
-Connect with me on [LinkedIn](https://www.linkedin.com/in/mark-buckner-io/){:target="_blank"}.
+<h4>Connect with me on [LinkedIn](https://www.linkedin.com/in/mark-buckner-io/){:target="_blank"}.</h4>
 <br>
-Check out my projects on [GitHub](https://github.com/markbuckner){:target="_blank"}.
+<h4>Check out my projects on [GitHub](https://github.com/markbuckner){:target="_blank"}.</h4>
