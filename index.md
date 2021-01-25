@@ -8,7 +8,8 @@ sitemap:
   priority: 0.9
 ---
 <p id="describe-text">Under construction..</p>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed do eiusmod tempor incididunt ut labore et magna aliqua. Incididunt ut labore et [dolore](#) aler tempor incididunt et [email@example.com](#).
-
-Find me on [LinkedIn](https://www.linkedin.com){:target="_blank"}, [GitHub](https://github.com/mbuck11){:target="_blank"}.
+<br>
+<br>
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mark-buckner-io/){:target="_blank"}.
+<br>
+Check out my projects on [GitHub](https://github.com/markbuckner){:target="_blank"}.
