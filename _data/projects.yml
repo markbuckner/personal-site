@@ -1,11 +1,12 @@
 - name: Simple, Painless Python Logger
   id: p1
   main_link: /
-  img_src: /assets/img/logger.png
+  img_src: /assets/img/Logger.png
   description_less: >
     <p>My Logger for Python. Enables users to get set up to log to file or console with just import statements.</p>
   description_more: >
-    <p>The logger includes three levels for INFO, WARNING, and ERROR messages. The ERROR messages add traceback information and are meant to be used in except blocks.</p>
+    <p>The logger includes three levels for INFO, WARNING, and ERROR messages. </p>
+    <p>The ERROR messages add traceback information and are meant to be used in except blocks.</p>
 
     <a href="https://github.com/markbuckner/Logger" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
     <a href="/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
@@ -19,10 +20,11 @@
   main_link: /personal-site
   img_src: /assets/img/python-logo.png
   description_less: > 
-    <p>ThreadPool makes multi-threading your Python code very simple. It is designed to be simple to setup and use so you don't have to know the details of working with the Python threading library, or even the basics of multithreading in general. Just pick a function you want to execute in a new thread, and ThreadPool will take care of the rest of the work for you.</p>
+    <p>ThreadPool makes multi-threading your Python code very simple. </p>
+    <p>It is designed to be simple to setup and use so you don't have to know the details of working with the Python threading library </p>
     <br>
-    <a href="/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
-    <a href="https://github.com" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+    <a href="https://github.com/markbuckner/ThreadPool" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
+    <a href="https://github.com/markbuckner/ThreadPool" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
     <a href="/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
   description_more: >
     <p>This tool really speeds up developing multi-threaded Python code!</p>
@@ -32,4 +34,4 @@
   tags: >
     <span class="badge badge-info">#python</span>
     <span class="badge badge-secondary">#threading</span>
-    <span class="badge badge-success">#multi-threading
+    <span class="badge badge-success">#multi-threading</span>
