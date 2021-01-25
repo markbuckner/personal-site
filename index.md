@@ -12,4 +12,4 @@ I am a software engineer currently working in the medical technology field. My f
 <br><br>
 Connect with me on [LinkedIn](https://www.linkedin.com/in/mark-buckner-io/){:target="_blank"}.
 <br>
-<h4>Check out my projects on [GitHub](https://github.com/markbuckner){:target="_blank"}.</h4>
+Check out my projects on [GitHub](https://github.com/markbuckner){:target="_blank"}.
