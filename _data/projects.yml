@@ -13,7 +13,6 @@
     <span class="badge badge-info">#python</span>
     <span class="badge badge-secondary">#logger</span>
     <span class="badge badge-success">#file-logger</span>
-    <span class="badge badge-info>#console-logger</span>
 
 - name: ThreadPool
   id: p2
