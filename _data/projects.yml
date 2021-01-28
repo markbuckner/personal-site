@@ -1,17 +1,19 @@
-- name: Simple, Painless Python Logger
+- name: Painless Python Logger
   id: p1
   main_link: /
   img_src: /assets/img/logger.png
   description_less: >
-    <p>My Logger for Python. Enables users to get set up to log to file or console with just import statements.</p>
-    <a href="https://github.com/markbuckner/Logger" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+    <p>My painless logging module for Python. It enables users to log to file or console easily, and can be configured in a readable YAML file.</p>
+    <a href="https://github.com/markbuckner/PainlessLogger" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
   description_more: >
     <p>The logger includes three levels for INFO, WARNING, and ERROR messages. </p>
-    <p>The ERROR messages add traceback information and are meant to be used in except blocks.</p>
-    <p>I use this logger for my own purposes</p>
+    <p>The ERROR messages add traceback information automatically and are meant to be used in except blocks.</p>
+    <p>I use this logger for my own purposes, and I modeled it after what I used at work.</p>
   tags: >
     <span class="badge badge-info">#python</span>
     <span class="badge badge-secondary">#logger</span>
+    <span class="badge badge-success">#file-logger</span>
+    <span class="badge badge-info>#console-logger</span>
 
 - name: ThreadPool
   id: p2
