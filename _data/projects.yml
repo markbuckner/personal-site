@@ -3,29 +3,28 @@
   main_link: /
   img_src: /assets/img/logger.png
   description_less: >
-    <p>My painless logging module for Python. It enables users to log to file or console easily, and can be configured in a readable YAML file.</p>
-    <a href="https://github.com/markbuckner/PainlessLogger" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+    <p>My painless logging module for Python. It enables users to log to file or console with just import statements (no additional logger initialization or scaffolding code), and can be configured in a readable YAML file.</p>
+    <a href="https://github.com/markbuckner/painless_logger" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
   description_more: >
     <p>The logger includes three levels for INFO, WARNING, and ERROR messages. </p>
     <p>The ERROR messages add traceback information automatically and are meant to be used in except blocks.</p>
     <p>I use this logger for my own purposes, and I modeled it after what I used at work.</p>
   tags: >
     <span class="badge badge-info">#python</span>
-    <span class="badge badge-secondary">#logger</span>
+    <span class="badge badge-secondary">#console-logger</span>
     <span class="badge badge-success">#file-logger</span>
 
-- name: ThreadPool
+- name: Thread Pool
   id: p2
   main_link: /personal-site
   img_src: /assets/img/python-logo.png
   description_less: > 
-    <p>ThreadPool makes multi-threading your Python code very simple. </p>
-    <p>It is designed to be simple to set up and use so you don't have to know the details of working with the Python threading library </p>
+    <p>My thread pool is designed to make multi-threading your Python code very simple. It uses an underlying priority queue to schedule target tasks on their own seperate threads.</p>
     <br>
-    <a href="https://github.com/markbuckner/ThreadPool" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+    <a href="https://github.com/markbuckner/tpool" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
     <a href="/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
   description_more: >
-    <p>This tool really speeds up developing multi-threaded Python code!</p>
+    <p>This tool really speeds up developing multi-threaded Python code! It was modeled after something I used at my job working on an automated medical device.</p>
   tags: >
     <span class="badge badge-info">#python</span>
     <span class="badge badge-secondary">#threading</span>
