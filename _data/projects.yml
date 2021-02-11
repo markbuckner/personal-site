@@ -1,6 +1,7 @@
 - name: Painless Python Logger
   id: p1
   main_link: /
+  repo_link: https://github.com/markbuckner/painless_logger
   img_src: /assets/img/logger.png
   description_less: >
     <p>My painless logging module for Python. It enables users to log to file or console with just import statements (no additional logger initialization or scaffolding code), and can be configured in a readable YAML file.</p>
@@ -17,6 +18,7 @@
 - name: Thread Pool
   id: p2
   main_link: /personal-site
+  repo_link: https://github.com/markbuckner/tpool
   img_src: /assets/img/python-logo.png
   description_less: > 
     <p>My thread pool is designed to make multi-threading your Python code very simple. It uses an underlying priority queue to schedule target tasks on their own seperate threads.</p>
