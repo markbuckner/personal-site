@@ -12,7 +12,7 @@ permalink: /projects/
     <img class="card-img-top" src="{{ site.baseurl }}{{ project.img_src }}">
     {% endif %}
     <div class="card-body">
-      <h3><a class="stretched-link" href="{{ project.repo_link }}"><b>{{ project.name }}</b></a></h3>
+      <h3><a class="stretched-link" href="{{ project.repo_link }}" target="_blank"><b>{{ project.name }}</b></a></h3>
       {{ project.tags }}
       <p>{{ project.description_less }}</p>
       <div class="collapse" id="{{ project.id }}">
